@@ -3,7 +3,7 @@ Hi 👋 My name is Jayy
 
 I started programming 3 years ago. I am very interested in backend systems and automation.
 
-* 🌍  I'm based in Germany, Hamburg
+* 🌍  I'm based in Hamburg, Germany
 
 ### Skills
 
